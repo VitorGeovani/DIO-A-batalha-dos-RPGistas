@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A-batalha-dos-RPGistas/1.0.0": {
+        "runtime": {
+          "A-batalha-dos-RPGistas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A-batalha-dos-RPGistas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
